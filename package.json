@@ -19,6 +19,6 @@
   "homepage": "https://github.com/fantasyui-com/revolutionize#readme",
   "dependencies": {
     "postcss": "^7.0.17",
-    "skins": "^1.4.0"
+    "skins": "^1.5.0"
   }
 }
