@@ -1,6 +1,6 @@
 {
   "name": "revolutionize",
-  "version": "1.20.0",
+  "version": "1.21.0",
   "description": "PostCSS based web application skinning strategy.",
   "main": "index.js",
   "scripts": {
